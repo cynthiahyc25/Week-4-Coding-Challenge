@@ -21,6 +21,22 @@
             const messageDiv = document.getElementById('message');
             messageDiv.textContent = `You clicked the button ${clickCount} time(s)!`;
         });
+<style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+    </style>
     </script>
 </body>
 </html>
