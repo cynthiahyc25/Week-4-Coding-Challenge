@@ -65,6 +65,12 @@
     button:active {
             transform: scale(0.98);
         }
+ #message {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #333;
+            min-height: 30px;
+        }
     </style>
     </script>
 </body>
