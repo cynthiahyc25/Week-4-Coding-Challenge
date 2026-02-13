@@ -40,7 +40,7 @@
   .container {
             text-align: center;
             background: white;
-            padding: 50px;
+            padding: 60px;
             border-radius: 10px;
             box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
         }
